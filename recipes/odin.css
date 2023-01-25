@@ -1,0 +1,25 @@
+h1{
+    color: black;
+}
+body{
+    color: blue;
+    background-color: red;
+}
+head{
+    color: beige;
+
+}
+.ingredients-chicken-broccoli{
+    color: blue;
+    background-color: yellow;
+}
+.ingredients-soup{
+    font-size: 20px;
+    color: pink;
+    background-color: red;
+}
+.description-lasagna{
+    font-size: xx-large;
+    color: purple;
+    background: white;
+}
